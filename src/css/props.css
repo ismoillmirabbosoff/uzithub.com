@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.fixed{
+    position: fixed;
+}
+
+.flex {
+   display: flex; 
+}
+
+.bl {
+    display: block;
+}

@@ -1,0 +1,14 @@
+.sidebar {
+    width: 250px;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+
+.sidebar .logo {
+    padding:  20px 25px;
+}
+
+.sidebar .logo img {
+    height: 40px;
+}
