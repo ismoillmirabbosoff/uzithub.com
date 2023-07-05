@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './css/App.css';
 import "./css/props.css";
-import "./css/fonts.css"
+import "./css/icons/fonts.css"
 import Sidebar from './screens/sidebar';
 import Header from './screens/header';
 
